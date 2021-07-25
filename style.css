@@ -1,0 +1,387 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');
+.navbar {
+    height: 10em;
+    background-image: url("Images/Shape.png");
+    background-size: 100% 100%;
+    background-size: contain cover;
+}
+
+.ex-info h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 4em;
+}
+
+.ex-info span {
+    color: #DEB37E;
+}
+
+.m-content h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 5em;
+    color: #d8ab58;
+}
+
+.m-content p {
+    margin-bottom: 3em;
+}
+
+.middel {
+    width: 100%;
+    height: 957px;
+    margin-top: -9em;
+    background-image: url("Images/Place.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    object-fit: cover;
+    filter: grayscale(65%);
+}
+
+.ipsumf h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 4em;
+    color: #E2A355;
+}
+
+.btn-primary {
+    background-color: white;
+    color: #776C64;
+    text-shadow: thistle;
+    padding: 0.5em 3em;
+    border-radius: 2em;
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+
+.card-body {
+    background-color: #7F7770;
+    color: white;
+}
+
+.show-more {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.show-more button {
+    font-size: 20px;
+    background-color: #7f7770;
+    padding: 12px 80px;
+    border: 1px solid #7f7770;
+    border-radius: 50px;
+    color: #fff;
+}
+
+img.bg-bure1 {
+    position: absolute;
+    top: 80em;
+}
+
+.bg-kala {
+    height: 45.2em;
+    background-color: #7F7770;
+    color: white;
+}
+
+.bg-kala img {
+    width: 100%;
+}
+
+.about-info h1 {
+    font-size: 4em;
+}
+
+.bg-dala {
+    height: 46em;
+    background-color: #DEB37E;
+    color: white;
+}
+
+.bg-dala img {
+    width: 100%;
+}
+
+.read button {
+    width: 200px;
+    font-size: 20px;
+    background-color: #e2a355;
+    border: 1px solid #e2a355;
+    border-radius: 50px;
+    color: white;
+}
+
+img.bg-bure2 {
+    position: absolute;
+    top: 207em;
+}
+
+.s-bg {
+    margin-top: 12em;
+    width: 100%;
+}
+
+.shape-bg {
+    width: 100%;
+}
+
+.aboutf {
+    background-color: #99928D;
+    color: white;
+}
+
+.ipsum {
+    margin-top: 12em;
+    text-align: center;
+}
+
+img.bg-bure3 {
+    position: absolute;
+    right: 0;
+    top: 295em;
+}
+
+.ipsumf {
+    text-align: center;
+    margin-bottom: 5em;
+}
+
+.ipsumf p {
+    height: 5em;
+    width: 25em;
+}
+
+.explore {
+    background-image: url("Images/background3.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    object-fit: cover;
+    filter: grayscale(65%);
+}
+
+.subscribe {
+    background-color: #DEB37E;
+}
+
+.email input {
+    width: 56%;
+    padding: 8px 20px;
+    border: 1px solid #fff;
+    border-radius: 50px;
+    font-size: 18px;
+}
+
+.email button {
+    position: relative;
+    left: -7%;
+    padding: 8px 30px;
+    border: 1px solid #54524f;
+    border-radius: 50px;
+    font-size: 18px;
+    background-color: #54524f;
+    color: #fff;
+}
+
+footer {
+    width: 100%;
+    height: auto;
+    background-color: #7f7770;
+}
+
+.aboutf {
+    background-color: #7f7770;
+}
+
+.grid-footer {
+    padding-top: 100px;
+    padding-bottom: 80px;
+    display: grid;
+    grid-template-columns: 700px 1fr 1fr 1fr;
+    color: #fff;
+}
+
+.title-here {
+    padding-left: 150px;
+}
+
+.title-here h3 {
+    font-size: 24px;
+}
+
+.title-here p {
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+.app {
+    color: #7f7770;
+    margin-top: 5px;
+}
+
+.app .fa-instagram {
+    font-size: 24px;
+    padding: 5px 7px;
+    border-radius: 50px;
+    background-color: #fff;
+}
+
+.app .fa-facebook {
+    font-size: 24px;
+    padding: 5px 10px;
+    border-radius: 50px;
+    background-color: #fff;
+}
+
+.app .fa-twitter {
+    font-size: 24px;
+    padding: 5px 6px;
+    border-radius: 50px;
+    background-color: #fff;
+}
+
+.app .fa-whatsapp {
+    font-size: 24px;
+    padding: 5px 8px;
+    border-radius: 50px;
+    background-color: #fff;
+}
+
+.aboutf h3 {
+    font-size: 24px;
+}
+
+.aboutf ul {
+    margin-top: 10px;
+}
+
+.aboutf ul li {
+    list-style: none;
+}
+
+.aboutf ul li a {
+    text-decoration: none;
+    color: #fff;
+    margin-left: -2em;
+}
+
+.services h3 {
+    font-size: 24px;
+}
+
+.services ul {
+    margin-top: 10px;
+}
+
+.services ul li {
+    list-style: none;
+}
+
+.services ul li a {
+    text-decoration: none;
+    color: #fff;
+    margin-left: -2em;
+}
+
+.other h3 {
+    font-size: 24px;
+}
+
+.other ul {
+    margin-top: 10px;
+}
+
+.other ul li {
+    list-style: none;
+}
+
+.other ul li a {
+    text-decoration: none;
+    color: #fff;
+    margin-left: -2em;
+}
+
+@media only screen and (max-width: 800px) {
+    .middel {
+        height: 650px;
+    }
+    img.bg-bure2 {
+        position: absolute;
+        top: 323em;
+        width: 100%;
+    }
+    img.bg-bure1 {
+        width: 100%;
+    }
+    img.bg-bure3 {
+        position: absolute;
+        right: 0;
+        top: 384em;
+    }
+    .bg-dala {
+        height: 33em;
+    }
+    .m-content h1 {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 3em;
+        color: #d8ab58;
+    }
+    .grid-footer {
+        grid-template-columns: 400px 1fr 1fr 1fr;
+        justify-items: center;
+    }
+    .title-here p {
+        font-size: 18px;
+        padding-top: 10px;
+    }
+    .aboutf h3 {
+        display: none;
+    }
+    .aboutf ul {
+        display: none;
+    }
+    .aboutf ul li {
+        display: none;
+    }
+    .aboutf ul li a {
+        display: none;
+        text-decoration: none;
+        color: #fff;
+        margin-left: -2em;
+    }
+    .services h3 {
+        display: none;
+        font-size: 24px;
+    }
+    .services ul {
+        display: none;
+        margin-top: 10px;
+    }
+    .services ul li {
+        display: none;
+        list-style: none;
+    }
+    .services ul li a {
+        display: none;
+        text-decoration: none;
+        color: #fff;
+        margin-left: -2em;
+    }
+    .other h3 {
+        display: none;
+        font-size: 24px;
+    }
+    .other ul {
+        display: none;
+        margin-top: 10px;
+    }
+    .other ul li {
+        display: none;
+        list-style: none;
+    }
+    .other ul li a {
+        display: none;
+        text-decoration: none;
+        color: #fff;
+        margin-left: -2em;
+    }
+}
